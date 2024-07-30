@@ -1,0 +1,1 @@
+import ProductWithoutPrice from 'ProductWithoutPrice';
