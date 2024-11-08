@@ -1,1 +1,1 @@
-import ProductWithoutPrice from 'ProductWithoutPrice';
+import ProductWithMemberPrice from 'ProductWithMemberPrice';

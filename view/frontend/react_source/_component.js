@@ -1,1 +1,1 @@
-DataProviderComponents['product'] = ProductWithoutPrice;
+DataProviderComponents['product'] = ProductWithMemberPrice;
